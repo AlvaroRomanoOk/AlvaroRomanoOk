@@ -5,6 +5,16 @@
 
 ### Alvaro Romano, estadísticas:
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=AlvaroRomanoOK&count_private=true&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=AlvaroRomanoOK&count_private=true&show_icons=true&theme=blue-green)<br><br>
-[![Github Trophies](https://github-profile-trophy.vercel.app/?username=AlvaroRomanoOK&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)<br><br>
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroRomanoOK&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Estadísticas](https://github-readme-stats.vercel.app/api?username=AlvaroRomanoOK&count_private=true&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=AlvaroRomanoOK&count_private=true&show_icons=true&theme=blue-green)<br><br>
+[![Trofeos de Github](https://github-profile-trophy.vercel.app/?username=AlvaroRomanoOK&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)<br><br>
+[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroRomanoOK&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Proyectos en los que he contribuido (que no son míos)
+* [elementary](https://github.com/elementary)
+  * Contribuí en las traducciones al español del sistema operativo "elementary", descárgalo desde aquí https://elementary.io/es/
+
+### Proyectos en los que estoy o he contribuido / trabajado (son parcial o totalmente de mi autoría)
+* [LIMONENO](https://gitgub.com/AlvaroRomanoOk/limoneno-web)
+  * Realicé el desarrollo de la página web del proyecto "LIMONENO" en el cual soy integrante. Actualmente estoy ofreciendo soporte y actualizaciones, visita la página web desde aquí https://limoneno.netlify.app
+
+Aquí se termina todo... por ahora...
