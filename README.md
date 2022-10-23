@@ -6,5 +6,5 @@
 ### Alvaro Romano, estadísticas:
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=AlvaroRomanoOK&count_private=true&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=AlvaroRomanoOK&count_private=true&show_icons=true&theme=blue-green)<br><br>
-[![Github Trophies](https://github-profile-trophy.vercel.app/?username=AlvaroRomanoOK&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)<br><br>  
+[![Github Trophies](https://github-profile-trophy.vercel.app/?username=AlvaroRomanoOK&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)<br><br>
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroRomanoOK&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
